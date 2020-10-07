@@ -1,6 +1,6 @@
 # Count Down Number Solver
 
-This is a react application developed to solver the Countdown Numbers Problem.
+This is a react application developed to solve the Countdown Numbers Problem.
 Upload a CSV of the numbers to be used and submit a target number. The app will then iterate over all possible calculations using the the inputted numbers and the expressions ()+-* to see if it is possible to reach the target number.
 
 # Progress
